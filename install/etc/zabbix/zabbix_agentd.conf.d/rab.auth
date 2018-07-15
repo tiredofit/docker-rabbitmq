@@ -1,0 +1,7 @@
+USERNAME=guest
+PASSWORD=guest
+CONF=/etc/zabbix/zabbix_agentd.conf
+LOGLEVEL=INFO
+LOGFILE=/var/log/rabbitmq_zabbix.log
+PORT=15672
+
